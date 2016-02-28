@@ -1,4 +1,4 @@
-# Jeu-de-pendu
+# Jeu-de-pendu (Java)
 ça se joue à deux joueurs et consiste à trouver un mot en devinant quelles sont les lettres qui le composent. Quand le dessin est terminé on voit un bonhomme allumette pendu.
 
 Ceci est mon propre essai de coder ce jeu en Java, ce travail est organisé en 4 classes :
